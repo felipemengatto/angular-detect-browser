@@ -1,11 +1,21 @@
 {
   "name": "angular-detect-browser",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Module in angularjs to detect browser version.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "angular.js",
+    "browser",
+    "detect",
+    "detect-browser",
+    "ng",
+    "angular",
+    "factory",
+    "service"
+  ],
   "author": "",
   "license": "ISC",
   "devDependencies": {
